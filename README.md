@@ -1,6 +1,6 @@
 # 🏴‍☠️ Welcome to my profile!
 
-###👋 Hey there! I am Victor Souza and I amd a brazilian programmer that hasalways been into technology. I'm 15 years old now, but I've been interested in this since I was 11.
+### 👋 Hey there! I am Victor Souza and I amd a brazilian programmer that hasalways been into technology. I'm 15 years old now, but I've been interested in this since I was 11.
 - Here you will find some om my projects because I don't leave everything public.
 
 ---
