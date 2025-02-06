@@ -1,25 +1,25 @@
-# 🏴‍☠️ Bem-vindo ao meu repositório!
+# 🏴‍☠️ Welcome to my profile!
 
-👋 Fala aí! Aqui você vai encontrar um pouco de tudo—desde projetos interessantes até investigações que despertam curiosidade.
+👋 Hey there! Here you’ll find a little bit of my projects and codes because I don't really leave everything public.
 
 ---
 
-## 🔎 Sobre mim
-📌 Gosto de fazer coisas que desafiam meus conhecimentos e me trazem mais aprendizado.
-💡 Além disso, sou movido pelo desejo de empreender e construir algo próprio.
+## 🔎 About Me:
+📌 I like to do things that challenge my knowledge and bring me more learning.
+💡 Furthermore, I am driven by the desire to undertake and build something of my own.
 
-## 📂 O que tem por aqui?
-🚀 Projetos pessoais e ideias em desenvolvimento
+## 📂 What's around here?
+🚀 Personal projects and ideas in development
 
-## 📬 Vamos trocar uma ideia?  
-Se curtiu algo por aqui ou tem alguma sugestão, me chama!  
+## 📬 Let's have a talk?
+If you liked something here or have any suggestions, let me know!
 
 📧 Email: victor.emp.14.2022@gmail.com
 📷 Instagram: victor.s0uz4_ 
 
 ---
 
-# 💻 Tecnologias Mais Usadas:
+# 💻 Most Used Technologies:
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![JSON](https://img.shields.io/badge/JSON-%232B9EB3?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
